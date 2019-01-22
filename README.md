@@ -1,2 +1,2 @@
 # Alien-invasion
-My first program of python
+My first program of Python for Alien-invasion
